@@ -4,14 +4,14 @@
 ---
  Un outil CLI simple pour interagir avec l'API Msrgpt.
  
-##Source 
+## Source 
 
   Msrgpt
  
- ##Créer un compte
+ ### Créer un compte
  
    msrgpt register
    
- ##Utilisation de l'outil
+ ### Utilisation de l'outil
  
 
