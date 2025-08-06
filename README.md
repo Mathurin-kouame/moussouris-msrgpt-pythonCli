@@ -1,15 +1,15 @@
 #Description
 
- -Comment installer dep avec req
- -Faire un export
+ Comment installer dep avec req
+ Faire un export
  
 ##Source 
 
- -Msrgpt
+  Msrgpt
  
  ##Créer un compte
  
-   -msrgpt register
+   msrgpt register
    
  ##Utilisation de l'outil
  
