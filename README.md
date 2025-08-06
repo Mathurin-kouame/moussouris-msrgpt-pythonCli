@@ -1,6 +1,6 @@
-#Moussouris-msrgpt-pythonCli
+# Moussouris-msrgpt-pythonCli
 
-##Description
+## Description
 ---
  Un outil CLI simple pour interagir avec l'API Msrgpt.
  
