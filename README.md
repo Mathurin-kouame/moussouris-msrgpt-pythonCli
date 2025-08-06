@@ -1,8 +1,7 @@
 #Moussouris-msrgpt-pythonCli
 
- Comment installer dep avec req
- Faire un export
- 
+##Description
+ Un outil CLI simple pour interagir avec l'API Msrgpt.
 ##Source 
 
   Msrgpt
