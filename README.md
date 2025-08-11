@@ -10,7 +10,6 @@ Chaque utlisateur dispose de 5 prompts maxmum par jour.
 -  Gestion des sessions (connexion / déconnexion)
 -  Options disponibles : scan, enum, footprint
 
----
 
 ##  Installation
 - Clonez ce dépôt.
@@ -20,8 +19,6 @@ Chaque utlisateur dispose de 5 prompts maxmum par jour.
   - rich>=14.0.0 
   
 Commande: pip install -r requirements.txt (nom du fichier) pour installer automatiquement les dependances
-
----
 
 ##  Configuration du PATH
   export PATH="/media/sf_formation_MOUSSOURIS/Moussourisgpt-backend/mousourisgpt-PythonCli:$PATH" 
@@ -68,8 +65,6 @@ footprint : pour  recueillir des données précieuses sur l'infrastructure, les 
 
 ### Profiling système :
     msgpt run -o "footprint" -p "récupère les informations système de la machine cible"
-
----
 
 ##  Portabilité & Open Source
 
